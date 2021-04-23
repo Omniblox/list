@@ -17,8 +17,8 @@
     "build:dev": "webpack --mode development --watch"
   },
   "author": {
-    "name": "Dave5",
-    "email": "dave@moniblox.io"
+    "name": "CodeX",
+    "email": "team@codex.so"
   },
   "devDependencies": {
     "@babel/core": "^7.10.2",
