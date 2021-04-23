@@ -10,15 +10,15 @@
   ],
   "description": "List Tool for Editor.js",
   "license": "MIT",
-  "repository": "https://github.com/editor-js/list",
+  "repository": "https://github.com/Omniblox/list",
   "main": "./dist/bundle.js",
   "scripts": {
     "build": "webpack --mode production",
     "build:dev": "webpack --mode development --watch"
   },
   "author": {
-    "name": "CodeX",
-    "email": "team@codex.so"
+    "name": "Dave5",
+    "email": "dave@moniblox.io"
   },
   "devDependencies": {
     "@babel/core": "^7.10.2",
