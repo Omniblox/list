@@ -143,6 +143,7 @@ class List {
       );
     }
 
+    this._elements.wrapper.id = this._id;
     return this._elements.wrapper;
   }
 
